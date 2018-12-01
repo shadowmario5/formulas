@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bloque 1 formula C", "bloque 1 formula C\bloque 1 formula C.csproj", "{6A0F9C16-4399-4755-8BB2-FF8C3F6DBF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0F9C16-4399-4755-8BB2-FF8C3F6DBF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0F9C16-4399-4755-8BB2-FF8C3F6DBF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0F9C16-4399-4755-8BB2-FF8C3F6DBF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0F9C16-4399-4755-8BB2-FF8C3F6DBF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FEF648-FC08-4F1C-A649-15E44C79178A}
+	EndGlobalSection
+EndGlobal
